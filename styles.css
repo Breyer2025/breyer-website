@@ -46,7 +46,7 @@ header img {
 
 .hero h2 {
     font-size: 3rem;
-    color: black; /* Text color */
+    /* Text color */
 }
 
 .hero p {
@@ -54,7 +54,7 @@ header img {
     margin-left: 10px;
     margin-right: 10px;
     text-align: left;
-    color: #f8f8f8; /* Text color */
+    /* Text color */
 }
 
 .btn {
@@ -82,7 +82,7 @@ header img {
 .videos h2 {
     font-size: 2rem;
     margin-bottom: 20px;
-    color: black; /* Text color */
+    /* Text color */
 }
 
 .video-grid {
@@ -186,13 +186,13 @@ input[type="range"] {
 /* Ending */
 h4{
     font-size: 3rem;
-    color: black;
+    
 }
 
 p {
     font-size: 14px;
     font-weight: normal;
-    color: black; /* Text color */
+    /* Text color */
     text-align: center;
     margin: 0 400px;
 }
