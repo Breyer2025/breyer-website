@@ -46,7 +46,7 @@ header img {
 
 .hero h2 {
     font-size: 3rem;
-    color: #f8f8f8; /* Text color */
+    color: black; /* Text color */
 }
 
 .hero p {
@@ -82,7 +82,7 @@ header img {
 .videos h2 {
     font-size: 2rem;
     margin-bottom: 20px;
-    color: #ffffff; /* Text color */
+    color: black; /* Text color */
 }
 
 .video-grid {
@@ -186,7 +186,7 @@ input[type="range"] {
 /* Ending */
 h4{
     font-size: 3rem;
-    color: #f8f8f8;
+    color: black;
 }
 
 p {
