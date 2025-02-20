@@ -7,8 +7,8 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: white; /* Primary color */
-    color: #0f0f0f; /* Text color */
+    background-color: red; /* Primary color */
+    color: red; /* Text color */
     text-align: center;
 }
 
@@ -22,7 +22,7 @@ body {
 body {
     font-family: Arial, sans-serif;
     background-color:white;
-    color: #0f0f0f;
+    color: white;
 }
 
 /* Header Styles */
