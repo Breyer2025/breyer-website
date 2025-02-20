@@ -22,7 +22,7 @@ body {
 body {
     font-family: Arial, sans-serif;
     background-color:white;
-    color: white;
+    color: black;
 }
 
 /* Header Styles */
@@ -64,7 +64,7 @@ header img {
     font-size: 14px;
     padding: 12px 20px;
     background-color: #ec0000; /* Primary color */
-    color: white; /* Text color */
+    color: black; /* Text color */
     text-decoration: none;
     font-weight: bold;
     border-radius: 5px;
