@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #ec0000; /* Primary color */
+    background-color: white; /* Primary color */
     color: #0f0f0f; /* Text color */
     text-align: center;
 }
@@ -21,7 +21,7 @@ body {
 
 body {
     font-family: Arial, sans-serif;
-    background-color:#0f0f0f;
+    background-color:red;
     color: #0f0f0f;
 }
 
